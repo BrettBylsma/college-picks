@@ -1,0 +1,10 @@
+.ranking {
+    background-color: #00274c;
+    color: #ffCB05;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    padding-left: 16px;
+    padding: auto;
+    margin: auto;
+    align-items:baseline;
+}
